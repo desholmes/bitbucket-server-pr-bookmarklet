@@ -1,0 +1,19 @@
+{
+  "name": "bamboo-server-pr-bookmarklet",
+  "version": "1.0.0",
+  "description": "Bitbucket Server PR bookmarklet",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "author": "Des Holmes (https://dholmes.co.uk)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/desholmes/bitbucket-server-pr-bookmarklet"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-bookmarklet": "1.0.0",
+    "gulp-rename": "2.0.0"
+  }
+}
