@@ -1,5 +1,7 @@
 # Bitbucket Server PR Template Bookmarklet
 
+> **NOTICE**: This repo currently has a dependency on a fork [desholmes/gulp-bookmarklet](https://github.com/desholmes/gulp-bookmarklet/tree/feature/remove-gulp-util-dep) a [pr is open](https://github.com/Skylark95/gulp-bookmarklet/pull/1) for this.
+
 [Bitbucket sever doesn't support PR templates](https://jira.atlassian.com/browse/BSERV-8663), unlike Bitbucket Cloud. This repo contains a bookmarklet to bring a common format to PR descriptions.
 
 This project uses:
